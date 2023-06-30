@@ -1,1 +1,1 @@
-# Music-streaming-application
+# Codeclause-Music-streaming-application
